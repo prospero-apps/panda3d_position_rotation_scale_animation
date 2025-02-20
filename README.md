@@ -1,0 +1,1 @@
+# panda3d_position_rotation_scale_animation
